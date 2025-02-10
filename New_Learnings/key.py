@@ -1,0 +1,2 @@
+gooogle_api_key="AIzaSyDMUs15xC0v_Rube1kWTV9jB8fTKTJBz5wl"
+serper_api_key="4e8138b9da4b9c88b78e42cf910c2a1adb9e2905"
